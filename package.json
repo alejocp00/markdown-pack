@@ -1,0 +1,15 @@
+{
+  "name": "markdown-pack",
+  "displayName": ":Markdown pack",
+  "description": "A collection of all MD extensions that I'm using.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
