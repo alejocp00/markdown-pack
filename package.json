@@ -2,6 +2,7 @@
   "name": "markdown-pack",
   "displayName": ":Markdown pack",
   "publisher": "AlejoCP00",
+  "icon": "logo/md.png",
   "repository": {
     "url": "https://github.com/alejocp00/markdown-pack/"
   },
