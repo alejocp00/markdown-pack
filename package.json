@@ -10,6 +10,7 @@
     "url": "https://github.com/alejocp00/markdown-pack/issues"
   },
   "description": "A collection of all MD extensions that I'm using",
+  "license": "mit",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
