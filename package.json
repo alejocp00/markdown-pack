@@ -2,15 +2,15 @@
   "name": "markdown-pack",
   "displayName": ":Markdown pack",
   "publisher": "AlejoCP00",
-  "icon": "logo/md.png",
+  "icon": "icon.png",
   "repository": {
     "url": "https://github.com/alejocp00/markdown-pack/"
   },
   "bugs": {
     "url": "https://github.com/alejocp00/markdown-pack/issues"
   },
-  "description": "A collection of all MD extensions that I'm using",
   "license": "mit",
+  "description": "A collection of all MD extensions that I'm using",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
