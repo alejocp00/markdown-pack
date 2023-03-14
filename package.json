@@ -1,15 +1,28 @@
 {
   "name": "markdown-pack",
   "displayName": ":Markdown pack",
-  "description": "A collection of all MD extensions that I'm using.",
+  "publisher": "AlejoCP00",
+  "repository": {
+    "url": "https://github.com/alejocp00/markdown-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/markdown-pack/issues"
+  },
+  "description": "A collection of all MD extensions that I'm using",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "publisher.extensionName"
+  "extensionPack": [
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "darkriszty.markdown-table-prettify",
+    "fcrespo82.markdown-table-formatter",
+    "bierner.github-markdown-preview",
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "bierner.emojisense"
   ]
 }
